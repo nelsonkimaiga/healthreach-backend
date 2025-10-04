@@ -1,15 +1,12 @@
 # Healthreach Hospital System
 
-This is a simple web-app that will register a patient, manage new and subsequent visits for the patient and captures their health-related vitals.
+This is a simple back-end service that will register a patient, manage new and subsequent visits for the patient and captures their health-related vitals.
 
 Stack used:
 
 Back-end:
 - Java, Maven & SpringBoot Framework
 - Mysql
-
-Front-End:
-- ReactJs
 
 # How to run:
 
