@@ -12,7 +12,7 @@ Back-end:
 
 - Clone the repo
 - open the `healthreach-backend` folder in your IntelliJ IDE
-- build the Maven dependencies and run the application. 
+- build the Maven dependencies and run the application using `mvn spring-boot:run`
 
 The JAVA API application will run from port `8008` i.e: `http://localhost:8008/healthreach/`
 
